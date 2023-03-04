@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+    background-color: bisque;
+}
+
+.container{
+    padding: 20px;
+    margin: 10px;
+    border: 1px solid black;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+
+.div1{
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid black;
+    width: 40px;
+}
